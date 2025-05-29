@@ -1,0 +1,26 @@
+:root {
+  --mainColor : #faf3eb;
+  --secondaryColor : #fde2d9;
+  --acsentColor : #7b3f48;
+}
+
+body {
+  background-color: var(--mainColor);
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+}
+
+h2 {
+  font-family: 'Lato' , sans-serif;
+}
+
+h3 {
+  font-family: 'Lato' , sans-serif;
+}
+
+p {
+  font-family: 'Poppins' , sans-serif;
+}
